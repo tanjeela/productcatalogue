@@ -1,0 +1,15 @@
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\bin\Debug\net6.0\ProductCatalogueProject.exe
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\bin\Debug\net6.0\ProductCatalogueProject.deps.json
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\bin\Debug\net6.0\ProductCatalogueProject.runtimeconfig.json
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\bin\Debug\net6.0\ProductCatalogueProject.dll
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\bin\Debug\net6.0\ProductCatalogueProject.pdb
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\obj\Debug\net6.0\ProductCatalogueProject.csproj.AssemblyReference.cache
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\obj\Debug\net6.0\ProductCatalogueProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\obj\Debug\net6.0\ProductCatalogueProject.AssemblyInfoInputs.cache
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\obj\Debug\net6.0\ProductCatalogueProject.AssemblyInfo.cs
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\obj\Debug\net6.0\ProductCatalogueProject.csproj.CoreCompileInputs.cache
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\obj\Debug\net6.0\ProductCatalogueProject.dll
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\obj\Debug\net6.0\refint\ProductCatalogueProject.dll
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\obj\Debug\net6.0\ProductCatalogueProject.pdb
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\obj\Debug\net6.0\ProductCatalogueProject.genruntimeconfig.cache
+C:\Users\xtam1\Desktop\ProductCatalogueProject\ProductCatalogueProject\obj\Debug\net6.0\ref\ProductCatalogueProject.dll
